@@ -1,3 +1,4 @@
 name: Kunkka
 occupation: Admiral
 objective: remember
+preference
