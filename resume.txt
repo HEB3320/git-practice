@@ -1,4 +1,5 @@
 name: Kunkka
 occupation: Admiral
 objective: remember
-preference
+preference hahh
+hobbies: sport
